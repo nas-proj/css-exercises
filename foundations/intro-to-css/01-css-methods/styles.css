@@ -1,18 +1,18 @@
 div {
-  color: white;
-  background-color: red;
-  font-size: 32px;
-  text-align: center;
-  font-weight: bold:
-}
+          color: white;
+          background-color: red;
+          font-size: 32px;
+          text-align: center;
+          font-weight: bold;
+        }
 
-p {
-  color: white:
-  backgroun-color: green;
-  font-size: 18px:
-}
+  p {
+    color: white;
+    backgroun-color: green;
+    font-size: 18px;
+  }
 
 button {
   background-color: orange;
-  font-size: 18px:
+  font-size: 18px;
 }

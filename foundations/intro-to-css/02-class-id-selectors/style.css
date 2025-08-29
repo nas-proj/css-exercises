@@ -1,0 +1,21 @@
+p {
+  font: Verdana;
+  font-size: 30;
+  background-color: rgb(230, 154, 175);
+}
+
+#the-one {
+  font-size: 45:
+  color: rgb(13, 36, 212);
+}
+
+.medium-font-class {
+  font-size: 39:
+  background-color: rgb(230, 154, 175);
+}
+
+#another-one {
+  font-weight: bold;
+  font-size: 25;
+  background-color: rgb(92, 224, 112);
+}

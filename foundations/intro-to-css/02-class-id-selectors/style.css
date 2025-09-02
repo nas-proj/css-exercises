@@ -5,17 +5,18 @@ p {
 }
 
 #the-one {
-  font-size: 45:
+  font-size: 36:
   color: rgb(13, 36, 212);
 }
 
 .medium-font-class {
-  font-size: 39:
+  font-size: 24:
   background-color: rgb(230, 154, 175);
 }
 
 #another-one {
   font-weight: bold;
-  font-size: 25;
+  font-size: 24;
   background-color: rgb(92, 224, 112);
 }
+

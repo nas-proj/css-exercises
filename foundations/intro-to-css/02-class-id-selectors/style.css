@@ -1,24 +1,25 @@
 p {
   font: Verdana;
-  font-size: 30;
+  font-size: 30px;
   background-color: rgb(230, 154, 175);
 }
 
 #the-one {
-  font-size: 36;
+  font-size: 36px;
   color: rgb(13, 36, 212);
 }
 
 .medium-font-class {
-  font-size: 24:
+  font-size: 24px:
   background-color: rgb(230, 154, 175);
 }
 
 #another-one {
   font-weight: bold;
-  font-size: 24;
+  font-size: 24px;
   background-color: rgb(92, 224, 112);
 }
+
 
 
 

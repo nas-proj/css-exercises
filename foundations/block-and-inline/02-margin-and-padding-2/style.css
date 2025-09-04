@@ -35,7 +35,8 @@ div {
 .button-container {
   background: #e3f4ff;
   padding: 8px;
-  margin: 8px;
+  width: 100px
+  margin: 0 auto;
 
 }
 
